@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34" started-at="2018-01-13T02:19:35Z" finished-at="2018-01-13T02:19:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34" started-at="2018-01-13T02:19:35Z" finished-at="2018-01-13T02:19:35Z">
+      <class name="AnimalTest">
+        <test-method status="PASS" signature="eat()[pri:0, instance:AnimalTest@100a15d]" name="eat" duration-ms="11" started-at="2018-01-13T10:19:35Z" finished-at="2018-01-13T10:19:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eat -->
+        <test-method status="PASS" signature="sleep()[pri:0, instance:AnimalTest@100a15d]" name="sleep" duration-ms="1" started-at="2018-01-13T10:19:35Z" finished-at="2018-01-13T10:19:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sleep -->
+      </class> <!-- AnimalTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -9,14 +9,15 @@ public class Animal {
 	}
 
 	public void eat() {
-		System.out.println(name + "is eating.");
+		System.out.println(name + " is eating.");
 	}
 
 	public void sleep() {
-		System.out.println(name + "is sleeping");
+		System.out.println(name + " is sleeping");
 	}
 
 	public void introduction() {
 		System.out.println("Hello! I am " + id + ": " + name + ".");
 	}
+
 }
